@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "pedroburon",
+  "repo": "dotenv",
+  "versions": [
+    {
+      "commit": "0768eb37483922117d17fd5e5641f3fc9052f757",
+      "parsed_at": "2026-04-09T18:29:56.467924+00:00",
+      "tag": "0.0.5",
+      "filetree": "filetree/0768eb37483922117d17fd5e5641f3fc9052f757.nq.gz",
+      "blobs": [
+        "blob/3412c932814605d011bbaaf7912311ede4fd8184.nq.gz",
+        "blob/11920bd618d31c1bc3e53b3ded7786dc289db79b.nq.gz",
+        "blob/14b560c6f34f8a8616a10589f853385d3f946e4c.nq.gz",
+        "blob/db089e313f3b11686530f43aedb304997de0f994.nq.gz",
+        "blob/727c46c9c87187293f0e79bd3f3e2b9971268249.nq.gz",
+        "blob/0ff045128b5590d3bbf91e42b84fc85d87461a52.nq.gz",
+        "blob/ca0dcb3a29df85dbc45ed72b2302067d6395258a.nq.gz",
+        "blob/5e16252936686aaaca4aa1d704dff7d34775a35b.nq.gz",
+        "blob/9b83e5e1d8af2dd218256c6a8623b4b1de5de1bc.nq.gz",
+        "blob/a3d5f79834f82c669b37de900cdc3f11c576afd2.nq.gz",
+        "blob/9df810bdb656b356b6ba79c68750505ce89b6f3d.nq.gz",
+        "blob/65dd2c6a75545aac8fce76471d6890563c3e2375.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
